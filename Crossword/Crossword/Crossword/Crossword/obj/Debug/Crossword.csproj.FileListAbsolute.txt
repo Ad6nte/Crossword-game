@@ -1,0 +1,82 @@
+C:\Users\Ольга\Visual studio kods\c#\Crossword\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\Ольга\Visual studio kods\c#\Crossword\Crossword\bin\Debug\Crossword.exe
+C:\Users\Ольга\Visual studio kods\c#\Crossword\Crossword\bin\Debug\Crossword.pdb
+C:\Users\Ольга\Visual studio kods\c#\Crossword\Crossword\obj\Debug\Crossword.csproj.AssemblyReference.cache
+C:\Users\Ольга\Visual studio kods\c#\Crossword\Crossword\obj\Debug\Crossword.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ольга\Visual studio kods\c#\Crossword\Crossword\obj\Debug\Crossword.Form1.resources
+C:\Users\Ольга\Visual studio kods\c#\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\Ольга\Visual studio kods\c#\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\Ольга\Visual studio kods\c#\Crossword\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\Visual studio kods\c#\Crossword\Crossword\obj\Debug\Crossword.exe
+C:\Users\Ольга\Visual studio kods\c#\Crossword\Crossword\obj\Debug\Crossword.pdb
+E:\Практика\Crossword\Crossword\bin\Debug\Crossword.exe.config
+E:\Практика\Crossword\Crossword\bin\Debug\Crossword.exe
+E:\Практика\Crossword\Crossword\bin\Debug\Crossword.pdb
+E:\Практика\Crossword\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+E:\Практика\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+E:\Практика\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+E:\Практика\Crossword\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+E:\Практика\Crossword\Crossword\obj\Debug\Crossword.exe
+E:\Практика\Crossword\Crossword\obj\Debug\Crossword.pdb
+F:\Практика\Crossword\Crossword\bin\Debug\Crossword.exe.config
+F:\Практика\Crossword\Crossword\bin\Debug\Crossword.exe
+F:\Практика\Crossword\Crossword\bin\Debug\Crossword.pdb
+F:\Практика\Crossword\Crossword\obj\Debug\Crossword.csproj.AssemblyReference.cache
+F:\Практика\Crossword\Crossword\obj\Debug\Crossword.csproj.SuggestedBindingRedirects.cache
+F:\Практика\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+F:\Практика\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+F:\Практика\Crossword\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+F:\Практика\Crossword\Crossword\obj\Debug\Crossword.exe
+F:\Практика\Crossword\Crossword\obj\Debug\Crossword.pdb
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\bin\Debug\Crossword.exe.config
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\bin\Debug\Crossword.exe
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\bin\Debug\Crossword.pdb
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.csprojAssemblyReference.cache
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.exe
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.pdb
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.Menu.resources
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.Registrarion.resources
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.Login.resources
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.Game.resources
+F:\Практика\Crossword\Crossword\obj\Debug\Crossword.Game.resources
+F:\Практика\Crossword\Crossword\obj\Debug\Crossword.Login.resources
+F:\Практика\Crossword\Crossword\obj\Debug\Crossword.Menu.resources
+F:\Практика\Crossword\Crossword\obj\Debug\Crossword.Registrarion.resources
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\bin\Debug\Crossword.exe
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\bin\Debug\Crossword.pdb
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.csproj.AssemblyReference.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.Game.resources
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.Login.resources
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.Menu.resources
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.Registrarion.resources
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.exe
+C:\Users\Ольга\OneDrive\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.pdb
+E:\Практика\Crossword\Crossword\obj\Debug\Crossword.Cross1.resources
+E:\Практика\Crossword\Crossword\obj\Debug\Crossword.Game.resources
+E:\Практика\Crossword\Crossword\obj\Debug\Crossword.Login.resources
+E:\Практика\Crossword\Crossword\obj\Debug\Crossword.Menu.resources
+E:\Практика\Crossword\Crossword\obj\Debug\Crossword.Registrarion.resources
+F:\Практика\Crossword\Crossword\obj\Debug\Crossword.Cross1.resources
+\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\obj\Debug\Crossword.Cross1.resources
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\bin\Debug\Crossword.exe.config
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\bin\Debug\Crossword.exe
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\bin\Debug\Crossword.pdb
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\obj\Debug\Crossword.csproj.AssemblyReference.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\obj\Debug\Crossword.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\obj\Debug\Crossword.Cross1.resources
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\obj\Debug\Crossword.Login.resources
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\obj\Debug\Crossword.Menu.resources
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\obj\Debug\Crossword.Properties.Resources.resources
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\obj\Debug\Crossword.Registrarion.resources
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\obj\Debug\Crossword.csproj.GenerateResource.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\obj\Debug\Crossword.csproj.CoreCompileInputs.cache
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\obj\Debug\Crossword.exe
+C:\Users\Ольга\OneDrive\Рабочий стол\практика\Crossword\Crossword\obj\Debug\Crossword.pdb

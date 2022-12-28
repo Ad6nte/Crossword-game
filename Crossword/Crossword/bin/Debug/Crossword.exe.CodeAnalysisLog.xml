@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="c:\program files (x86)\microsoft visual studio\2019\professional\team tools\static analysis tools\fxcop\Xml\CodeAnalysisReport.xsl"?>
+<FxCopReport Version="16.0">
+ <Targets>
+  <Target Name="\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword\bin\Debug\Crossword.exe">
+   <Modules>
+    <Module Name="crossword.exe">
+     <Namespaces>
+      <Namespace Name="AccessC">
+       <Types>
+        <Type Name="ConectThisAccessWorker" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Messages>
+          <Message TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001" Status="Active" Created="2022-05-17 14:15:55Z" FixCategory="NonBreaking">
+           <Issue Name="NonBreaking" Certainty="95" Level="CriticalError">Реализуйте IDisposable для 'ConectThisAccessWorker', поскольку он создает члены следующих типов IDisposable: 'OleDbConnection'.</Issue>
+          </Message>
+         </Messages>
+         <Members>
+          <Member Name="#fillDGV(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-05-17 14:15:55Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword" File="ConectThisAccessWorker.cs" Line="44">Строка запроса, переданная 'OleDbCommand.OleDbCommand(string, OleDbConnection)' в 'ConectThisAccessWorker.fillDGV(string)', может содержать следующие переменные 'query'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#InsertAndDeleteAndUpdate(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-05-17 14:15:55Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword" File="ConectThisAccessWorker.cs" Line="37">Строка запроса, переданная 'OleDbCommand.OleDbCommand(string, OleDbConnection)' в 'ConectThisAccessWorker.InsertAndDeleteAndUpdate(string)', может содержать следующие переменные 'query'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+          <Member Name="#Select(System.String)" Kind="Method" Static="False" Accessibility="Public" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100" Status="Active" Created="2022-05-17 14:15:55Z" FixCategory="DependsOnFix">
+             <Issue Name="WithNonLiterals" Certainty="75" Level="Warning" Path="\\FSStudy.marstu.net\Study\Пользователи\S1201303114\Рабочий стол\Crossword\Crossword" File="ConectThisAccessWorker.cs" Line="25">Строка запроса, переданная 'OleDbCommand.OleDbCommand(string, OleDbConnection)' в 'ConectThisAccessWorker.Select(string)', может содержать следующие переменные 'query'. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Issue>
+            </Message>
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+      <Namespace Name="Crossword.Properties">
+       <Types>
+        <Type Name="Resources" Kind="Class" Accessibility="Assembly" ExternallyVisible="False">
+         <Members>
+          <Member Name="#.ctor()" Kind="Method" Static="False" Accessibility="Assembly" ExternallyVisible="False">
+           <Messages>
+            <Message TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811" Status="ExcludedInSource" Created="2022-05-17 14:15:55Z" FixCategory="NonBreaking" LastSeen="0001-01-01 00:00:00Z" />
+           </Messages>
+          </Member>
+         </Members>
+        </Type>
+       </Types>
+      </Namespace>
+     </Namespaces>
+    </Module>
+   </Modules>
+  </Target>
+ </Targets>
+ <Rules>
+  <Rule TypeName="AvoidUncalledPrivateCode" Category="Microsoft.Performance" CheckId="CA1811">
+   <Name>Избегайте невызываемого частного кода</Name>
+   <Description>Имеется невызываемый код, не видимый извне и не являющийся известной точкой входа во время выполнения. Если это нарушение выведено ошибочно, отправьте отчет об ошибке в группу анализа кода Visual Studio.</Description>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182264.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="performancerules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="TypesThatOwnDisposableFieldsShouldBeDisposable" Category="Microsoft.Design" CheckId="CA1001">
+   <Name>Типы, которым принадлежат освобождаемые поля, должны быть освобождаемыми</Name>
+   <Description>Типы, объявляющие освобождаемые члены, также должны реализовывать IDisposable. Если типу не принадлежат какие-либо неуправляемые ресурсы, нет необходимости реализовывать для него метод завершения.</Description>
+   <Resolution Name="NonBreaking">Реализуйте IDisposable для {0}, поскольку он создает члены следующих типов IDisposable: {1}.</Resolution>
+   <Owner />
+   <Url>http://msdn.microsoft.com/library/ms182172.aspx</Url>
+   <Email>[none]</Email>
+   <MessageLevel Certainty="95">CriticalError</MessageLevel>
+   <File Name="designrules.dll" Version="16.0.0.0" />
+  </Rule>
+  <Rule TypeName="Проверка запросов SQL на уязвимости безопасности" Category="Microsoft.Security" CheckId="CA2100">
+   <Name>Проверка запросов SQL на уязвимости безопасности</Name>
+   <Description>Командная строка SQL, создаваемая на основе введенных пользователем данных, уязвима к атакам типа "инъекция SQL". Microsoft SQL Server и другие серверы баз данных поддерживают хранимые процедуры и параметризованные SQL-запросы, что снижает риск атак путем внедрения.</Description>
+   <Resolution Name="WithNonLiterals">Строка запроса, переданная {0} в {1}, может содержать следующие переменные {2}. Если любая из этих переменных может поступать из вводимых пользователем данных, рассмотрите возможность использования хранимой процедуры или параметризованного запроса SQL вместо сборки запроса с помощью конкатенации строк.</Resolution>
+   <Owner>RuleOwner</Owner>
+   <Url>http://msdn.microsoft.com/library/ms182310.aspx</Url>
+   <Email />
+   <MessageLevel Certainty="75">Warning</MessageLevel>
+   <File Name="dataflowrules.dll" Version="16.0.0.0" />
+  </Rule>
+ </Rules>
+ <Localized>
+  <String Key="Category">Категория</String>
+  <String Key="Certainty">Достоверность</String>
+  <String Key="CollapseAll">Свернуть все</String>
+  <String Key="CheckId">ИД проверки</String>
+  <String Key="Error">Ошибка</String>
+  <String Key="Errors">ошибки</String>
+  <String Key="ExpandAll">Развернуть все</String>
+  <String Key="Help">Справка</String>
+  <String Key="Line">Строка</String>
+  <String Key="Messages">сообщения</String>
+  <String Key="LocationNotStoredInPdb">[расположение не сохранено в PDB]</String>
+  <String Key="Project">Проект</String>
+  <String Key="Resolution">Разрешение</String>
+  <String Key="Rule">Правило</String>
+  <String Key="RuleFile">Файл правил</String>
+  <String Key="RuleDescription">Описание правила</String>
+  <String Key="Source">Источник</String>
+  <String Key="Status">Состояние</String>
+  <String Key="Target">Цель</String>
+  <String Key="Warning">Предупреждение</String>
+  <String Key="Warnings">предупреждения</String>
+  <String Key="ReportTitle">Отчет по анализу кода</String>
+ </Localized>
+</FxCopReport>
